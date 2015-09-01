@@ -27,10 +27,9 @@ Time spent: 20 hours
 ### Optional
 
 
-
-
 ### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
+![Video Walkthrough](dropbox-demo2.gif)
+![Video Walkthrough](dropbox-demo3.gif)
+![Video Walkthrough](dropbox-demo6.gif)
 
-![Video Walkthrough](...)
