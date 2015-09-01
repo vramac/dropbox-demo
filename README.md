@@ -26,10 +26,14 @@ Time spent: 20 hours
 
 ### Optional
 
-
 ### Walkthrough
 
+Express VFS API Server Demo
 ![Video Walkthrough](dropbox-demo2.gif)
+
+TCP Server/Client Sync Demo
 ![Video Walkthrough](dropbox-demo3.gif)
+
+TCP Server/Client Watcher Demo
 ![Video Walkthrough](dropbox-demo6.gif)
 
